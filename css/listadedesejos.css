@@ -86,6 +86,10 @@
     margin-top: 50px;
 }
 
+select.select-qtdade-box {
+    padding: 5px;
+}
+
 .lista-desejo-lista-mayze {
     padding-bottom: 70px;
     border-bottom: 1px solid #000;
@@ -140,4 +144,20 @@
 
 .desejos-adicionar-carrinho-btn:hover {
     background-color: #FF4F4F;
+}
+
+.botao-remover {
+    border: 1px solid #000;
+    color: #000;
+    margin-left: 700px;
+    margin-right: 200px;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 24px;
+}
+
+.botao-remover:hover {
+    background-color: #FF4F4F;
+    cursor: pointer;
 }
